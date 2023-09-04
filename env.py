@@ -1,5 +1,4 @@
 import random
-import config
 from agent import Seller_Agent, Buyer_Agent
 from copy import deepcopy
 import json
